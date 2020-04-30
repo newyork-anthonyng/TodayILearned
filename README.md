@@ -31,3 +31,10 @@ The `<<-{SOME_NAME}` starts the large block. The `{SOME_NAME}` at the end termin
 ---
 If you're going to create a public facing API, make sure to version it.
 &#35;API
+
+# 4/29/2020
+---
+In vim visual mode, `gv` gets your last visual selection. This is valuable when I have to do the following:
+1. Copy and paste block of code
+2. Comment out original block of code
+3. Modify the newly pasted block of code
