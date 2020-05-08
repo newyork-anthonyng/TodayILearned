@@ -9,3 +9,4 @@
 | 4/29/2020 | [Get last visual selection in vim](files/2020_04_29_last-selection.md) | vim |
 | 4/30/2020 | [Non-greedy regular expressions](files/2020_04_30_non-greedy-regex.md) | regex |
 | 4/30/2020 | npx automatically installs dependencies if it doesn't exist | npm |
+| 5/7/2020 | [Ruby/Rails date utilities are great](files/2020_05_07_rails-date-utils.md) | ruby |
