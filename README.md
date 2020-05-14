@@ -12,3 +12,5 @@
 | 5/7/2020 | [Ruby/Rails date utilities are great](files/2020_05_07_rails-date-utils.md) | ruby |
 | 5/8/2020 | [Emmet Wrap](files/2020_05_08_emmet-wrap.md) | editor |
 | 5/13/2020 | [Loading environment in Rails tasks](files/2020_05_13_rails-environment-task.md) | rails |
+| 5/13/2020 | [Double splats](files/2020_05_13_ruby-double-splats.md) | ruby |
+| 5/13/2020 | [Keyword arguments](files/2020_05_13_ruby-keyword-arguments.md) | ruby |
