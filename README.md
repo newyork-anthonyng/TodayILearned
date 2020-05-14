@@ -11,3 +11,4 @@
 | 4/30/2020 | npx automatically installs dependencies if it doesn't exist | npm |
 | 5/7/2020 | [Ruby/Rails date utilities are great](files/2020_05_07_rails-date-utils.md) | ruby |
 | 5/8/2020 | [Emmet Wrap](files/2020_05_08_emmet-wrap.md) | editor |
+| 5/13/2020 | [Loading environment in Rails tasks](files/2020_05_13_rails-environment-task.md) | rails |
