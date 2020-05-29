@@ -15,3 +15,4 @@
 | 5/13/2020 | [Double splats](files/2020_05_13_ruby-double-splats.md) | ruby |
 | 5/13/2020 | [Keyword arguments](files/2020_05_13_ruby-keyword-arguments.md) | ruby |
 | 5/28/2020 | [Git bisect](files/2020_05_28_git-bisect.md) | git |
+| 5/29/2020 | [Get download link](files/2020_05_29_download-link.md) | web |
