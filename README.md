@@ -16,3 +16,4 @@
 | 5/13/2020 | [Keyword arguments](files/2020_05_13_ruby-keyword-arguments.md) | ruby |
 | 5/28/2020 | [Git bisect](files/2020_05_28_git-bisect.md) | git |
 | 5/29/2020 | [Get download link](files/2020_05_29_download-link.md) | web |
+| 6/5/2020 | [Data URLs in Link tags](files/2020_06_05_data-urls.md) | html |
