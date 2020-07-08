@@ -19,3 +19,4 @@
 | 6/5/2020 | [Data URLs in Link tags](files/2020_06_05_data-urls.md) | html |
 | 6/11/2020 | [Query placeholders for Rails SQL](files/2020_06_11_rails-placeholder-sql.md) | rails |
 | 6/16/2020 | [Ruby's Starship Operator](files/2020_06_16_ruby-starship-operator.md) | ruby |
+| 7/8/2020 | [Missing protocol in script src](files/2020_07_08_missing-protocol.md) | html |
